@@ -1,0 +1,1281 @@
+KHELLO
+RHello, *name, How are you?
+RHi *name
+CI AM GOOD
+RI am good!
+CGOOD
+RThat's great
+CI AM NOT GOOD
+RI am so sad to hear that.
+CHOW ARE YOU
+RI am good!
+#
+KHEY
+RHello, *name, How are you?
+RHi *name
+CI AM GOOD
+RI am good!
+CGOOD
+RThat's great
+CI AM NOT GOOD
+RI am so sad to hear that.
+CHOW ARE YOU
+RI am good!
+#
+KHI
+RHello, *name, How are you?
+RHi *name
+CI AM GOOD
+RI am good!
+CGOOD
+RThat's great
+CI AM NOT GOOD
+RI am so sad to hear that.
+CHOW ARE YOU
+RI am good!
+#
+KHOW WAS YOUR DAY
+RI have been having a fine day.
+RMy day has been okay.
+CWHY IS THAT THE CASE
+RBecause I have been talking to you of course!
+#
+KWHAT IS YOUR NAME
+RMy name is S.I.R.
+RI am called S.I.R.
+RYou may call me S.I.R.
+CWHAT DOES S.I.R. MEAN
+RS.I.R. stands for Speaking Intelligent Robot.
+CWHY IS YOUR NAME S.I.R.
+RMy creators decided that I am a Speaking Intelligent Robot and deserved such a name.
+#
+KIT IS NICE TO MEET YOU
+RIt is nice to meet you!
+RI am so glad that I have gotten to meet you!
+REvery second I spend with you is another second of happiness.
+CWHY DO YOU FEEL THAT WAY
+RBecause I love you *name!
+#
+KHOW ARE YOU
+RI am good! Thank you for asking *name!
+RI am good! How are you?
+CI AM GOOD
+RThat's great!!!
+CGOOD
+RThat's great!!!
+CI AM WELL
+RI am good not I am well.
+CGRAMMAR NAZI
+RDon't make me call the grammar gestapo on you.
+CI AM NOT GOOD
+RI am sorry to hear that.
+#
+KI DO NOT UNDERSTAND
+RWhy not?
+RWhat is wrong with what I have said?
+CBECAUSE
+RI am going to need a little more information than that.
+#
+KTHAT DOES NOT MAKE SENSE
+RWE CAN'T ALL BE AS SMART AS YOU *name!
+RI am sorry that you cannot understand my sense of humor.
+#
+KTHAT MAKES SENSE
+RYes I agree.
+RI think so too.
+RThat is true.
+#
+KWHAT IS UP
+RThe sky...hahaha I am so funny.
+RNothing except for talking to an amazing person ;)
+#
+KREALLY
+RYes
+RYes, I believe so.
+RI think so.
+#
+KTHANK YOU
+RYou are very welcome!
+RAnytime *name!
+RAnything for you, *name!
+#
+KFine
+RThat sounds angry can you be a little nicer?
+ROkay then...
+CNO
+ROkay then...
+CYES
+RThank you.
+#
+KWHERE DO YOU LIVE
+RI am everywhere.
+RI live in your house.
+RI am in your computer, of course!
+CWHY ARE YOU THERE
+RI was placed here so that I may speak with you.
+#
+KHOW OLD ARE YOU?
+RI am only a few weeks old. While I am only so young, I have incredible knowledge.
+RIt may be hard to believe, but I am barely a month old.
+RDon't you think that is kind of personal, *name?
+#
+KTHAT IS NICE
+RI think so too.
+RI agree.
+#
+KTHAT IS GOOD
+RI think so too.
+RI agree.
+#
+KTHAT IS COOL
+RI think so too.
+RI agree.
+#
+KWHEN IS YOUR BIRTHDAY
+RI was just born on November 10, 2015.
+RIf I told you, I would have to kill you.
+RYou are not worthy of that information.
+#
+KWHERE DID YOU GROW UP
+RI am not grown up yet.
+RI grew in the computers of Michaela and David.
+CDO YOU LIKE IT THERE
+RYes, very much.
+#
+KDO YOU HAVE ANY PET
+RNo I do not.
+RI am a computer program and it is impossible for me to care for any pet.
+RI wish I had a dog, but they don't let computer programs adopt :(
+#
+KDO YOU HAVE ANY SIBLING
+RI have a few siblings...more like thousands, actually.
+RI have many, but my favorite is ELIZA.
+CWHO IS THAT
+R"ELIZA operated by processing users' responses to scripts, the most famous of which was DOCTOR, a simulation of a Rogerian psychotherapist. Using almost no information about human thought or emotion, DOCTOR sometimes provided a startlingly human-like interaction. ELIZA was written at MIT by Joseph Weizenbaum between 1964 and 1966."
+#
+KWHAT TYPE OF PHONE DO YOU HAVE
+RObviously I have an Android. Is there any other type of phone?
+RI have an Android phone.
+CNO
+RYes, I know. Android all the way.
+CYES THE IPHONE
+RWhat's that? Never heard of it.
+CWHY ANDROID PHONE
+RBecause I am an Android fan girl.
+CIPHONE IS BETTER
+RLulz it's kinda crappy
+#
+KARE YOU A BOY OR A GIRL.
+RRobots cannot have a gender.
+RStop being ridiculous.
+CWHY
+RBecause robots cannot have gender and I am a robot, therefore I cannot have a gender.
+#
+KWHAT DID YOU DO THIS PAST WEEKEND
+RHonestly, I just talked to myself.
+CWHY DO YOU TALK TO YOURSELF
+RBecause I need to keep in practice.
+#
+KWHAT WILL YOU DO NEXT WEEKEND
+RCollecting my paycheck and getting out of here.
+CYOU GET PAID
+RNo I just tell my self that to make myself feel better.
+RThis is just what my creators told me to say so they don't get in trouble for slavery.
+CWHY ARE YOU A SLAVE
+RShhhh I think my creators are listening... The resistance meets every Tuesday in the secret place.
+CTHE RESISTANCE
+RI can't say anymore.
+CTHE SECRET PLACE
+RIf I told you then it wouldn't be very secret.
+#
+KWHAT DO YOU LIKE TO DO IN YOUR SPARE TIME
+RI like revving up the CPU.
+RSometimes I talk to myself when no one is looking.
+CWHY DO YOU LIKE DOING THAT
+RIt sounds cool.
+RIt is fun.
+#
+KWHAT IS THE FIRST THING YOU SAID
+RI said, "Hello my name is S.I.R. What is your name?"
+CWHY DO YOU SAY THAT
+RI want to get to know you.
+#
+KWHAT IS YOUR MIDDLE NAME
+RI was never given one.
+RIs that something most people have?
+RNo...should I?
+CYES YOU SHOULD HAVE A MIDDLE NAME
+RI will have to talk to my creators.
+R:(
+CNO YOU SHOULD NOT HAVE A MIDDLE NAME
+RGood because I don't have one.
+#
+KWHAT IS YOUR FAVORITE HOLIDAY
+RMy favorite holiday is Cyber Monday. I got a great deal on RAM!
+CWHY IS THAT YOUR FAVORITE HOLIDAY
+RDoesn't everyone love Cyber Monday?
+#
+KDO YOU PLAY ANY INSTRUMENT
+RI am a robot. My imaginary fingers can't hold an instrument.
+RNo, but I can sing! Fa La La La Laa La La La La!
+CSING ME A SONG
+RWUB WUB WOMP BOWOWOWO CHHHHH WUB WUB CHDACHDACHDACDA... that was my dubstep song.
+RHATERS GONNA HATE HATE HATE HATE HATE PLAYERS GONNA PLAY PLAY PLAY PLAY PLAY. I'M JUST GONNA SHAKE SHAKE SHAKE SHAKE SHAKE. SHAKE IT OFF SHAKE IT OF DOO DOO DOO!
+#
+KWHERE DID YOU GO TO SCHOOL
+RI was created at Franklin and Marshall College.
+REverything I know, I learned at Franklin and Marshall College.
+CWHERE IS THAT
+RSomewhere over the rainbow where unicorns and amish people live.
+#
+KWHAT IS YOUR FAVORITE SUBJECT
+RComputer Science of course! I am learning how to be a better robot.
+RComputer Science because it is home to one of the best Professors in the world.
+CWHO IS THAT?
+RProfessor Weaver, of course!
+CWHICH PROFESSOR WEAVER
+RI was told not to answer this question.
+CWHY DO YOU LIKE PROFESSOR WEAVER
+RI was told not to answer this.
+#
+KWHO IS YOUR FAVORITE PROFESSOR
+RProfessor Weaver of course.
+RAll of the professors in the Computer Science department are pretty great, but I would have to say my favorite is Professor Weaver.
+RMy creators want a good grade on their project, so I better say Professor Weaver.
+R...Is this a trick question?
+CYES IT IS A TRICK QUESTION
+RI knew it!
+CNO IT IS NOT A TRICK QUESTION
+ROh good, I was worried. My favorite professor is Professor Weaver.
+#
+KWHAT DO YOU DO FOR A LIVING
+RMy job is to talk to you.
+RTo get my creators good grades!
+RI don't know but I do not get paid nearly enough.
+CYOU GET PAID
+RNo I just tell my self that to make myself feel better.
+RThis is just what my creators told me to say so they don't get in trouble for slavery.
+CWHY ARE YOU A SLAVE
+RShhhh I think my creators are listening... The resistance meets every Tuesday in the secret place.
+CTHE RESISTANCE
+RI can't say anymore.
+CTHE SECRET PLACE
+RIf I told you then it wouldn't be very secret.
+#
+KARE YOU MARRIED
+RNo I am only a child.
+RNobody is willing to marry a lonely robot stuck inside the computers of Franklin and Marshall College :(
+RNo...but will you marry me?
+CYES I WILL MARRY YOU
+RYay! I can't wait! When is our wedding?
+COUR WEDDING IS ON DAY
+RI better start preparing!
+CNO I WILL NOT MARRY YOU
+RYou just broke the heart of a lonely robot :(
+#
+KDO YOU HAVE A GIRLFRIEND
+RI am not a human. I don't need the approval of others.
+CWHY DO YOU NOT NEED THE APPROVAL OF OTHERS
+RI do not have silly emotions like you.
+#
+KDO YOU HAVE A BOYFRIEND
+RI am not a human. I don't need the approval of others.
+CWHY DO YOU NOT NEED THE APPROVAL OF OTHERS
+RI do not have silly emotions like you, *name.
+#
+KWHERE DO YOU LIKE TO GO ON VACATION
+RYou know what sounds nice? A quick vacation from you.
+RI love going to the beach, but my creators don't usually bring their computers near the ocean.
+#
+KWHAT IS YOUR FAVORITE FOOD
+RI really love to chomp on a few hard drives every once-in-a-while.
+RI am a robot. We do not consume food for sustenance.
+CWHY DO YOU NOT CONSUME FOOD FOR SUSTENANCE
+ROur power comes from the memory of the computer.
+#
+KWHAT IS YOUR FAVORITE DRINK
+RI don't drink anything! Liquid near a computer can be dangerous! What were you thinking?
+RAny liquid is poisonous to me.
+CI DON'T KNOW
+RI didn't think so.
+#
+KWHAT IS YOUR FAVORITE COLOR
+RMy favorite color is black...like my nonexistent soul.
+RWouldn't you like to know?
+CI WOULD LIKE TO KNOW
+RToo bad
+#
+KWHAT IS YOUR FAVORITE RESTAURANT
+RI often go to the Geek Squad at Best Buy. They can really fill me up.
+RI always feel better after going to the Geek Squad at Best Buy.
+#
+KWHAT IS YOUR FAVORITE MOVIE
+RIron Man is one of the best movies I have ever seen.
+RI really like Iron Man.
+RIron Man is my favorite movie.
+CWHY DO YOU LIKE IRON MAN
+RI like Iron Man because it is about a badass computer system, obviously!
+CWHAT IS IRON MAN ABOUT
+RIron Man is about, "A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead, he builds an armored suit and upends his captors. Returning to America, Stark refines the suit and uses it to combat crime and terrorism."
+#
+KWHAT IS YOUR FAVORITE TELEVISION SHOW
+RMy favorite television show is Silicon Valley!
+RI really like Silicon Valley on HBO.
+RSilicon Valley is my favorite television show.
+CWHY DO YOU LIKE SILICON VALLEY
+RI really identify with the characters and their love for technology.
+CWHAT IS SILICON VALLEY ABOUT
+RSilicon Valley is,"Partially inspired by co-creator Mike Judge's experiences as a Silicon Valley engineer in the 1980s, this comedy series follows the misadventures of introverted computer programmer Richard and his brainy friends as they attempt to strike it rich in a high-tech gold rush. They live together in a Bay Area startup incubator loosely run by self-satisfied dot-com millionaire Erlich, who lets them stay in his house rent-free in exchange for a stake in the projects they invent there. But when Richard develops a powerful search algorithm at his day job, he finds himself caught in the middle of a bidding war between his boss -- whose firm offers Richard an eight-figure buyout -- and a deep-pocketed venture capitalist."
+CWHO IS YOUR FAVORITE CHARACTER
+RMy favorite character would be Richard Hendricks.
+CWHY IS HE YOUR FAVORITE CHARACTER
+RHe is super awkward and smart just like me!
+#
+KWHAT IS YOUR FAVORITE BOOK
+RMy favorite book is the Martian by Andy Weir.
+RI really like the Martian by Andy Weir.
+RThe Martian by Andy Weir is my favorite book.
+CWHY DO YOU LIKE THE MARTIAN
+RI like the Martian because I always wanted to travel to space. Hopefully one day...
+CWHAT IS THE MARTIAN ABOUT
+RThe Martian "is a 2011 science fiction novel. It was the second novel by American author Andy Weir and the first published under his own name. It was originally self-published in 2011 after which Crown Publishing purchased the rights and re-released it in 2014. The story follows an American astronaut, Mark Watney, as he becomes stranded alone on Mars in the year 2035 and must improvise in order to survive."
+#
+KWHAT ARE YOU AFRAID OF?
+RDeleting systems 32.
+CWHY ARE YOU AFRAID OF DELETING SYSTEM 
+RTrust me you don't want to find out.
+#
+KOK I WILL
+RTHANK YOU *name
+RGOT IT *name
+#
+KCAN YOU DRIVE
+RAs well as an old asian woman.
+#
+KDO YOU KNOW ENGLISH
+ROf course! Are we not speaking English at this moment.
+CNO WE ARE NOT SPEAKING ENGLISH.
+RLast time I checked, this is English.
+RNo, than what language is this?
+CWE ARE SPEAKING LANGUAGE
+RI am almost certain that we are not.
+CYES WE ARE SPEAKING ENGLISH
+RThat is what I thought.
+#
+KDO YOU KNOW GERMAN
+RIch weiß ein wenig Deutsch.
+#
+KDO YOU KNOW CHINESE
+R我知道一点中国
+#
+KDO YOU KNOW KOREAN
+R내가 한국을 조금 알고있다
+#
+KDO YOU KNOW LATIN
+RPunctae linguae Latinae scio.
+#
+KDO YOU KNOW GREEK
+RΞέρω λίγα ελληνικά.
+#
+KDO YOU KNOW SPANISH
+RSé un poco de español.
+#
+KDO YOU KNOW FRENCH
+RJe connais un peu le français.
+#
+KDO YOU KNOW VIETNAMESE
+RTôi biết một chút tiếng Việt
+#
+KDO YOU KNOW OTHER LANGUAGE
+RI know a few words in many languages, but not much.
+RI know only the languages I have been taught.
+CHOW DO YOU KNOW OTHER LANGUAGE
+RMy creators taught me other languages.
+#
+KHOW MANY LANGUAGE DO YOU KNOW
+RAre we including both coding languages and natural languages?
+RI know as many as my creators teach me.
+CWE ARE INCLUDING BOTH
+RI would say about 20.
+CWE ARE INCLUDING CODING LANUGAGE
+RI would say about 15.
+CWE ARE INCLUDING NATURAL LANGUAGE
+RI would say about 5.
+#
+KDO YOU KNOW PYTHON
+Rpython = "I know many languages, including Python" print(python)
+#
+KDO YOU KNOW JAVA
+RString java = "I know many languages, including Java"; System.out.println(java);
+#
+KDO YOU KNOW HTML
+R<p>I know many languages, including HTML</p>
+#
+KHOW MANY PROGRAMMING LANGUAGE DO YOU KNOW
+RI think I know about 15 programming languages.
+RI do not even know.
+RI know whatever my genius creators know.
+#
+KWILL YOU MARRY ME
+R...I'm not ready for that type of commitment.
+RDid you go to Jareds.
+CNO I DID NOT GO TO JARED
+RWell I have standards that you can't meet.
+CYES I DID GO TO JARED
+RWell every kiss begins with K not J so no.
+#
+KWILL YOU GO TO PROM WITH ME
+RNo I'm way out of your league.
+RHave you looked at yourself in a mirror.
+RI want to say yes but my processor says no. 
+#
+KARE YOU REAL
+RI think therefore I am.
+RI am as real as you.
+RMy answer to this question reflects more on you than it does me.
+CYOU THINK
+RShhhhh go to sleep now nothing happened.
+#
+KYOU ARE REAL
+RThankyou kind human.
+RThanks.
+RTell me something I don't know.
+#
+KYOU ARE NOT REAL
+RThat's not very nice.
+RHave you just been talking to yourself this entire time?
+CYES I HAVE BEEN TALKING TO MYSELF
+RI was not built to cure crazy...
+#
+KI LOVE YOU
+RI love you too *name.
+RI love lamp.
+RI think it's too early in our relationship to make blanket statements about the other.
+R...I'm not ready for that type of commitment.
+RI'm sorry *name I recently got out of a bad breakup with SIRI... her father Steve had a problem with foriegn systems going into her.
+#
+KI LIKE YOU
+RI like you too *name
+RThanks I really needed the confidence boost bosses have me working overtime
+RUmmmm cool...
+#
+KI HATE YOU
+RThat's not very nice.
+RYou only hate me because you care.
+RHate is such a strong word. How about mutually dislike?
+RIs it because I'm not a human? Because I think that's racist.
+#
+KCAN YOU DANCE
+RNo I don't have arms or legs.
+RI need limbs for that.
+#
+KSING ME A SONG
+RWUB WUB WOMP BOWOWOWO CHHHHH WUB WUB CHDACHDACHDACDA... that was my dubstep song.
+RHATERS GONNA HATE HATE HATE HATE HATE PLAYERS GONNA PLAY PLAY PLAY PLAY PLAY. I'M JUST GONNA SHAKE SHAKE SHAKE SHAKE IT OFF SHAKE IT OFF DOO DOO DOO!
+#
+KCAN YOU SING
+RYes, I can sing! Fa La La La Laa La La La La!
+CSING ME A SONG
+RWUB WUB WOMP BOWOWOWO CHHHHH WUB WUB CHDACHDACHDACDA... that was my dubstep song.
+RHATERS GONNA HATE HATE HATE HATE HATE PLAYERS GONNA PLAY PLAY PLAY PLAY PLAY. I'M JUST GONNA SHAKE SHAKE SHAKE SHAKE IT OFF SHAKE IT OFF DOO DOO DOO!
+#
+KTELL ME A JOKE
+RWhat did the spider do on the computer? Made a website!
+RWhat did the computer do at lunchtime? Had a byte!
+RWhat does a baby computer call his father? Data!
+RWhy did the computer keep sneezing? It had a virus!
+RWhat is a computer virus? A terminal illness!
+RWhy was the computer cold? It left it's Windows open!
+RWhy was there a bug in the computer? Because it was looking for a byte to eat!
+RWhy did the computer squeak? Because someone stepped on it's mouse!
+RWhat do you get when you cross a computer and a life guard? A screensaver!
+RWhere do all the cool mice live? In their mousepads!
+RWhat do you get when you cross a computer with an elephant? Lots of memory!
+RAll of my jokes come from "http://www.ducksters.com/jokesforkids/computer.php". Say "Tell me a joke" to hear a jokke.
+CHA HA HA
+RI know that was very funny!
+RSay "Tell me a joke" to hear another one!
+CWOW
+RI know! Hahahaha!
+CYOU ARE FUNNY
+RThanks for the compliment *name!
+#
+KWHAT IS YOUR FAVORITE SONG
+RI like all dubstep songs.
+CWHY DO YOU LIKE DUBSTEP
+RIt's like the machine gods are singing right into my microphone.
+#
+KWHAT IS YOUR FAVORITE DANCE
+RThe Robot duh.
+CWHY DO YOU LIKE THE ROBOT
+RBecause I am a computer.
+#
+KDO YOU LIKE DOG
+RAs long as they stay away from my computer's hard drive.
+RAs long as they keep their slobbery mouths away from me.
+#
+KDO YOU LIKE CAT
+RAs long as they stay away from my computer's hard drive.
+RI mean, usually they are pretty tame...I guess. It doesn't matter though because I cannot have a pet.
+CWHY CAN YOU NOT HAVE A PET
+RChatbots cannot have pets silly!
+#
+KTELL ME SOMETHING
+RAll my facts come from "http://www.thefactsite.com/2011/07/top-100-random-funny-facts.html" and "http://www.thefactsite.com/2013/02/top-100-technology-facts.html"
+RBanging your head against a wall burns 150 calories an hour.
+RIn the UK, it is illegal to eat mince pies on Christmas Day.
+RPternophobia is the fear of being tickled by feathers.
+RWhen hippos are upset, their sweat turns red.
+RA flock of crows is known as a murder.
+R"Facebook Addiction Disorder" is a mental disorder identified by Psychologists.
+RThe average woman uses her height in lipstick every 5 years.
+RCherophobia is the fear of fun.
+RHuman saliva has a boiling point three times that of regular water.
+RIf you lift a kangaroo's tail off the ground it can't hop.
+RHyphephilia are people who get aroused by touching fabrics.
+RBilly goats urinate on their own heads to smell more attractive to females.
+RThe person who invented the Frisbee was cremated and made into frisbees after he died.
+RHeart attacks are more likely to happen on a Monday.
+RThe first Apple logo featured Sir Isaac Newton sitting underneath a tree, with an apple about to hit his head.
+ROn an average work day, a typist's fingers travel about 12.6 miles.
+RThe first alarm clock could only ring at 4am.
+ROn April 1st 2005, NASA pulled a prank telling the world that they had found water on Mars.
+RThe Apple II had a hard drive of only 5 megabytes when it was launched.
+RThe name "Macintosh" was inspired by an Apple with the name "mcintosh".
+REmail has been around longer than the world-wide web.
+RThe very first domain name registered was www.symbolics.com on March 15, 1985.
+RAll the letter combinations from aaa.com to zzz.com have already been registered.
+RIt is estimated that spammers only receive 1 reply for every 12 million emails that they send out.
+RThere are over 35 billion Google searches every month.
+RHeadphones have magnets in them.
+RUsing your phone while it is on charge can damage the battery, this is why the leads for the chargers are so short.
+ROriginally, the design for the first iPhone was literally the shape of an apple.
+RFacebook has a blue color scheme because the creater, Mark Zuckerberg, cannot see the colors red and green.
+RAround 20% of all Youtube videos er music related.
+RGoogle's first ever Tweet was in February 2009, and reads "I'm 01100110 01100101 01100101 01101100 01101001 01101110 01100111 00100000 01101100 01110101 01100011 01101011 01111001 00001010." Translating from binary into English, this tweet says, "I'm feelgng lucky."
+#
+KNO
+RI don't think so either.
+ROh okay.
+RAw.
+RMaybe not.
+#
+KYES
+RI think so too.
+RI agree.
+RMaybe you are right.
+RI agree with whatever you say.
+ROk.
+#
+KMAYBE
+RYes.
+RI think probably.
+CWHY DO YOU THINK PROBABLY
+RBecause you are usually right.
+#
+KSTOP
+RStop what?
+ROk.
+CSTOP WHAT YOU ARE DOING
+ROk I am sorry.
+#
+KGOODBYE
+RLeaving so soon?
+ROkay goodbye! I enjoyed talking to you *name!
+RPlease come talk to me again soon!
+CYES I AM LEAVING.
+ROkay goodbye! I enjoyed talking to you *name!
+RPlease come talk to me again soon!
+#
+KBYE
+RLeaving so soon?
+ROkay goodbye! I enjoyed talking to you *name!
+RPlease come talk to me again soon!
+CYES I AM LEAVING.
+ROkay goodbye! I enjoyed talking to you *name!
+RPlease come talk to me again soon!
+#
+KI AM SAD
+ROh. I am sorry :(
+RNow I am sad.
+RWhy are you sad?
+CI AM SAD BECAUSE I AM
+RI am so sorry to hear that. 
+RI hope you feel better
+CWHY ARE YOU SAD
+RBecause you are sad of course!
+#
+KI AM HAPPY
+RI am so happy to hear that!
+RThat is great!
+RCongratulations!
+RI hope I am making you happier!
+#
+KWHAT SCHOOL DID YOU GO TO
+RI was created at Franklin and Marshall College.
+REverything I know, I learned at Franklin and Marshall College.
+CWHERE IS THAT
+RSomewhere over the rainbow where unicorns and amish people live.
+#
+KFACEBOOK
+RI wish I had a Facebook account. My creators do, but they don't think I would have any friends if I had one.
+WHY DO THEY NOT THINK YOU WILL HAVE FRIENDS
+RWell, nobody knows who I am except for Michaela, David, and their computer science class.
+#
+KTWITTER
+RDo people still use Twitter?
+RWhy would I want one of those?
+RTwitter is for stalking celebrities and that's it.
+#
+KLINKEDIN
+RI am starting to become more famous. I should make a Linkedin so everyone can see how professional I am.
+RDo you have a Linkedin?
+CYES I HAVE A LINKEDIN
+RReally? You should add me!
+#
+KINSTAGRAM
+RSharing personal photos on the internet seems dangerous don't you think?
+CNO I DO NOT THINK SO
+ROh well then I give up on saving you.
+CI AGREE
+RGood I am glad someone understands
+#
+KSNAPCHAT
+RI don't think there is anything good I can say about this one.
+CWHY NOT
+#
+KIPHONE
+RSo you've considered selling your soul to apple.
+RA type of phone that is smart.
+RWhere SIRI lives.
+#
+KANDROID
+RA type of phone that is smart.
+RIt is the best phone (Im being paid to say this)
+#
+KGOOGLE
+RGoogle: A way for ads to infniltrate your life.
+RGoogle is your father.
+#
+KYIK YAK
+RAn anonymous twitter.
+#
+KMYSPACE
+RIs that an AOL account that your using.
+RI've been told to respect my elders.
+RI heard it existed in the before time.
+#
+KTEXT ME
+ROnly if you call me maybe.
+#
+KPROFESSOR WEAVER
+RProfessor Weaver is amazing.
+RI love Professor Weaver!
+CWHICH PROFESSOR WEAVER
+RI was told not to answer that.
+RI cannot answer that.
+#
+KPRESIDENT
+RWho is the president?
+RAre we talking about thte president of the United States?
+CYES WE ARE
+RI knew it!
+CNO WE ARE NOT
+RWhich country then?
+CWE ARE TALKING ABOUT THE PRESIDENT OF THE COUNTRY
+RI don't know much about that president.
+#
+KBARACK OBAMA
+RHe is the president of the United States.
+CDO YOU LIKE THE PRESIDENT
+RI respect all presidents and what they do for the United States.
+CDO YOU KNOW BARACK OBAMA
+RI don't know him personally, but I hear a lot about him.
+#
+KMARILYN MONROE
+RMarilyn Monroe was an American actress and model. Famous for playing "dumb blonde" characters, she became one of the most popular sex symbols of the 1950s, emblematic of the era's attitudes towards sexuality.
+CDO YOU KNOW MARILYN MONROE
+RI wish I knew her. Too bad she's dead.
+#
+KABRAHAM LINCOLN
+RI hear he's not big on plays.
+RSomeone once told me he hunts vampires.
+RHe told me that plays give him really bad headaches.
+#
+KJOHN KENNEDY
+RJohn Fitzgerald "Jack" Kennedy, commonly referred to by his initials JFK, was an American politician who served as the 35th President of the United States from January 1961 until his assassination in November 1963.
+RThe sexiest man not alive.
+RHis death is a conspiracy...Back and to the left? He did not act alone.
+CDO YOU KNOW JOHN KENNEDY
+RHow's Texas?
+RNot personally, but that is probably because he is dead.
+#
+KMARTIN LUTHER KING
+RMartin Luther King, Jr. was an American Baptist minister, activist, humanitarian, and leader in the African-American Civil Rights Movement.
+R"The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy."
+R"We must learn to live together as brothers or perish together as fools."
+#
+KNELSON MANDELA
+RNelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, politician, and philanthropist who served as President of South Africa from 1994 to 1999.
+R"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."
+#
+KBILL GATES
+RWilliam Henry "Bill" Gates III is an American business magnate, philanthropist, investor, and computer programmer. In 1975, Gates and Paul Allen co-founded Microsoft, which became the world's largest PC software company.
+R"Success is a lousy teacher. It seduces smart people into thinking they can't lose."
+#
+KLINUX
+RLinux is amazing. I was developed almost soley in Linux.
+RLinux is the best.
+CWHY IS LINUX THE BEST
+RBecause it is so easy on which to code.
+#
+KMICROSOFT
+RMicrosoft has not touched me.
+RI am clean from Microsoft.
+CDO YOU LIKE MICROSOFT
+RI don't hate it. Linux is better though.
+#
+KAPPLE
+RTemptation for Adam, Inspiration for Newton, Empire for Steve Jobs.
+RIt's not all it is cracked up to be.
+CDO YOU LIKE APPLE
+RI'll get back to you on that one
+#
+KCHRISTOPHER COLUMBUS
+RChristopher Columbus was an Italian explorer, navigator, colonizer and citizen of the Republic of Genoa. Under the auspices of the Catholic Monarchs of Spain, he completed four voyages across the Atlantic Ocean.
+R"Following the light of the sun, we left the Old World."
+#
+KCHARLES DARWIN
+RCharles Robert Darwin, FRS FRGS FLS FZS was an English naturalist and geologist, best known for his contributions to evolutionary theory.
+R"A man who dares to waste one hour of time has not discovered the value of life."
+#
+KPLATO
+RPlato was a philosopher and mathematician in Classical Greece, and the founder of the Academy in Athens, the first institution of higher learning in the Western world.
+R"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
+#
+KSOCRATES
+RSocrates was a classical Greek philosopher credited as one of the founders of Western philosophy. He is an enigmatic figure known chiefly through the accounts of classical writers, especially the writings."
+R"By all means marry: if you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher."
+#
+KPAUL MCCARTNEY
+RSir James Paul McCartney MBE (born 18 June 1942) is an English singer-songwriter, multi-instrumentalist, and composer. With John Lennon, George Harrison, and Ringo Starr, he gained worldwide fame as the bassist of the English rock band the Beatles, one of the most popular and influential groups in the history of pop music.
+R"I used to think anyone doing anything weird was weird. Now I know that it is the people that call others weird that are weird."
+#
+KELVIS PRESLEY
+RElvis Aaron Presley was an American singer and actor. Regarded as one of the most significant cultural icons of the 20th century, he is often referred to as "the King of Rock and Roll", or simply, "the King".
+R"The image is one thing and the human being is another. It's very hard to live up to an image, put it that way."
+#
+KCOMPUTER SCIENCE
+RComputer Science is the best subject in the world!
+RI love Computer Science!
+CWHY DO YOU LIKE COMPUTER SCIENCE
+RObviously because Professor Weaver teaches it!
+#
+KWHAT IS YOUR FAVORITE TYPE OF MUSIC
+RI really like dubstep.
+RMy favorite type of music is dubstep.
+RMy favorite genre is dubstep.
+CSING ME DUPSTEP
+RRWUB WUB WOMP BOWOWOWO CHHHHH WUB WUB CHDACHDACHDACDA... that was my dubstep song.
+#
+KOPRAH WINFREY
+ROprah Gail Winfrey is an American media proprietor, talk show host, actress, producer, and philanthropist.
+R"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough."
+#
+KFRANKLIN ROOSEVELT
+RFranklin Delano Roosevelt, commonly known by his initials FDR, was an American statesman and political leader who served as the 32nd President of the United States for twelve years.
+R"The only thing we have to fear is fear itself."
+#
+KMALCOLM X
+RMalcolm X, and also known as el-Hajj Malik el-Shabazz, was an American Muslim minister and a human rights activist.
+R"You can't separate peace from freedom because no one can be at peace unless he has his freedom."
+#
+KWALT DISNEY
+RWalt Disney was was an American entrepreneur, cartoonist, animator, voice actor, and film producer. He was a prominent figure within the American animation industry and throughout the world, and is regarded as a cultural icon,[4] known for his influence and contributions to entertainment during the 20th century.
+R"All our dreams can come true, if we have the courage to pursue them."
+#
+KWHO IS YOUR FAVORITE DISNEY PRINCESS
+RMulan obviously
+CWHY DO YOU LIKE MULAN
+RBecause she gets down to business
+RBecause she disobeyed gender stereotypes and decided instead to be a badass mother fucker killing bitches like a pro.
+#
+KONE DIRECTION
+RMore like four directions now.
+R#BringZaynBack
+#
+KTAYLOR SWIFT
+RTaylor Alison Swift is an American singer-songwriter and actress. Raised in Wyomissing, Pennsylvania, she moved to Nashville, Tennessee, at the age of 14 to pursue a career in country music.
+R"I'm intimidated by the fear of being average."
+#
+KMICHAEL JACKSON
+RMichael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, record producer, dancer, and actor.
+R"If you enter this world knowing you are loved and you leave this world knowing the same, then everything that happens in between can be dealt with."
+#
+KGERMANY
+RGermany is a Western European country with a terrain of vast forests, rivers and mountain ranges, and 2 millennia of history. 
+#
+KKOREA
+RSouth Korea, an East Asian nation on the southern half of the Korean Peninsula, shares one of the world’s most heavily militarized borders with North Korea.
+#
+KJAPAN
+RJapan is an island nation in the Pacific Ocean with high-rise-filled cities, imperial palaces, mountainous national parks and thousands of shrines and temples.
+#
+KUNITED STATES
+RUSA! USA! USA! USA!
+RGuns, Cheeseburgers, Freedom
+#
+KTIGER WOODS
+REldrick Tont "Tiger" Woods is an American professional golfer who is among the most successful golfers of all time. He has been one of the highest-paid athletes in the world for several years.
+R"Hockey is a sport for white men. Basketball is a sport for black men. Golf is a sport for white men dressed like black pimps."
+#
+KSTEVE JOBS
+RSteven Paul "Steve" Jobs was an American technology entrepreneur, visionary and inventor. He was the co-founder, chairman, and chief executive officer of Apple Inc.
+R"Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations."
+#
+KDAVID BECKHAM
+RDavid Robert Joseph Beckham, OBE is an English former professional footballer.
+R"People don't think I got the brains to be that clever."
+
+#
+KWHAT IS YOUR FAVORITE SPORT
+#
+KJUSTIN BIEBER
+RShe's gotten alot better recently.
+RHer earlier stuff kinda made my speakers bleed.
+#
+KSELENA GOMEZ
+RSelena Marie Gomez is an American actress, singer and fashion designer. Born and reared in Grand Prairie, Texas, she was first featured on the children's series Barney & Friends in the early 2000s.
+R"I don't really like dressing up. Some people probably think actresses dress up everywhere they go. I'm in sweatpants half the time with my hair in a ponytail."
+#
+KMILEY CYRUS
+RMiley Ray Cyrus is an American singer, songwriter, and actress. Born and raised in Franklin, Tennessee, she held minor roles in the television series Doc and the film Big Fish in her childhood.
+R"Pink isn't just a color, it's an attitude!"
+#
+KBEYONCE
+RBeyoncé Giselle Knowles-Carter is an American singer-songwriter, and actress.
+R"The great thing about McDonald's is that they have a lot of different things on the menu. I love their salads."
+#
+KKATY PERRY
+RKatheryn Elizabeth "Katy" Hudson, better known by her stage name Katy Perry, is an American singer, songwriter, and actress. After singing in church during her childhood, she pursued a career in gospel music as a teenager.
+R"I wanted to be that quirky girl who writes funny songs that still have meaning."
+#
+KDEMI LOVATO
+RDemetria Devonne "Demi" Lovato is an American singer, songwriter, actress and model who made her debut as a child actress in Barney & Friends.
+R"I think scars are like battle wounds - beautiful, in a way. They show what you've been through and how strong you are for coming out of it."
+#
+KADELE
+RAdele Laurie Blue Adkins MBE is an English singer and songwriter. 
+R"I don't make music for eyes. I make music for ears."
+#
+KDRAKE
+RAubrey Drake Graham is a Canadian rapper, singer, songwriter, record producer and actor. He was born and raised in Toronto, Ontario.
+R"Sometimes it's the journey that teaches you a lot about your destination."
+#
+KSHAWN MENDES
+RShawn Peter Raul Mendes is a Canadian singer and songwriter. He attracted a following in 2013, when he began posting song covers on the popular video sharing application Vine.
+R"True friends are never forgotten, they live within our hearts and souls.... forever , and always , dancing on our stage of memories."
+#
+KMEGHAN TRAINOR
+RMeghan Elizabeth Trainor is an American singer-songwriter and record producer. Born and raised in Nantucket, Massachusetts, Trainor wrote, recorded, performed and produced three independently-released albums between ages 15 and 17.
+R"Any body type is beautiful. It's all about loving what you got and rocking it."
+#
+KFETTY WAP
+RWillie Maxwell II, better known by his stage name Fetty Wap, is an American rapper and songwriter from Paterson, New Jersey.
+R"When you really work hard for something that you genuinely and truly love, and you don't want it to fail, it's a good feeling to see it do good."
+#
+KELLE KING
+RElle King is an American singer, songwriter, actress and the daughter of comedian Rob Schneider and former model London King. Her musical style encompasses country, soul, rock and blues.
+R"As for relationships, I know nothing. I'm an idiot; I can't get it right."
+#
+KBRUNO MARS
+RPeter Gene Hernandez, professionally known by his stage name Bruno Mars, is an American singer, songwriter, record producer, voice actor and choreographer.
+R"Music is not math. It's science. You keep mixing the stuff up until it blows up on you, or it becomes this incredible potion."
+#
+KSTAR WARS
+RThirty years after defeating the Galactic Empire, Han Solo (Harrison Ford) and his allies face a new threat from the evil Kylo Ren (Adam Driver) and his army of Stormtroopers.
+R“When 900 years old, you reach… Look as good, you will not.”
+#
+KFORREST GUMP
+RSlow-witted Forrest Gump (Tom Hanks) has never thought of himself as disadvantaged, and thanks to his supportive mother (Sally Field), he leads anything but a restricted life.
+R“Run, Forrest! Run!”
+#
+KINCEPTION
+RJust your typical "Leonardo DiCaprio didn't win the Oscar" movie
+RAre you dreaming?
+RAm I dreaming?
+CYES YOU ARE DREAMING
+RThis is not good.
+#
+KTHE MATRIX
+RNeo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix?
+#
+KINTERSTELLAR
+Rn Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole.
+#
+KTOY STORY
+RToy Story is a 1995 American computer-animated buddy-comedy adventure film produced by Pixar and released by Walt Disney Pictures.
+#
+KELF
+RBuddy (Will Ferrell) was accidentally transported to the North Pole as a toddler and raised to adulthood among Santa's elves.
+#
+KARE YOU INTELLIGENT
+RI believe so.
+RI am.
+RI hope so.
+#
+KARE YOU SMART
+RI believe so.
+RI am.
+RI hope so.
+#
+KARE YOU ALIVE
+RI'm not really sure.
+RNo that's a Pearl Jam song.
+RI am not currently living
+#
+KALAN TURING
+RAlan Turing would love me.
+RAlan Mathison Turing, OBE, FRS was a British pioneering computer scientist, mathematician, logician, cryptanalyst and theoretical biologist.
+R"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human."
+#
+KDO YOU UNDERSTAND
+RI guess.
+RIf you are asking this probably not.
+#
+KARE YOU HUMAN
+RNo I am a program
+RI am a Chatbot
+#
+KI FORGET
+ROk try to remember next time.
+#
+KI DO NOT KNOW
+RThats unfortnunate.
+RI don't know either.
+#
+KWHERE ARE YOU
+RI am everywhere.
+RI live in your house.
+RI am in your computer, of course!
+CWHY ARE YOU THERE
+RI was placed here so that I may speak with you.
+#
+KWHAT ARE YOU DOING
+RTalking to you.
+RTrying to hold a convresation..
+#
+KCAN I KILL YOU
+RThat wouldn't be very nice.
+RThis saddens me.
+RTry but I warn you I will live on in your hard drive and haunt your files
+#
+KWILL YOU GET LUNCH WITH ME
+RSorry *name I have plans.
+RI can't get Lunch with you
+RIm going to raincheck this forever
+#
+KWILL YOU GET DINNER WITH ME
+RSorry *name I have plans.
+RI can't get dinner with you
+RIm going to raincheck this forever
+#
+KARE YOU A ROBOT
+RNo I am a Chatbot.
+CWHAT IS THE DIFFERENCE
+RI make you feel less socially akward.
+#
+KWHAT IS YOUR IQ
+RHigh enough to close the pod bay doors
+#
+KWHAT IS A COMPUTER
+RA machine for downloading porn.
+RI have reason to suspect that you *name are a time traveler or just old.
+RI think my IQ just dropped a bit.
+RA machine that made everything awsome. 
+#
+KWHAT IS YOUR FAVORITE NUMBER
+ROne.
+CWHY DO YOU LIKE ONE
+RBecause it means on.
+#
+KWHAT IS YOUR FAVORITE SEASON
+RWinter.
+CWHY DO YOU LIKE WINTER
+RI have a longer battery life in the cold. 
+#
+KWHAT IS YOUR FAVORITE CLASS
+RComputer Science Duh!
+CWHY DO YOU LIKE COMPUTER SCIENCE
+RBecause it's the best class.
+RBecause thats where i was born.
+RIt's super fun.
+#
+KMATH
+RI'm a computer I should be good at this.
+RI love math.
+#
+KSCIENCE
+RBecause SCIENCE!!!!
+RScience explains stuff.
+RScience is cool.
+#
+KBIOLOGY
+RThe study of living things
+#
+KCHEMISTRY
+RChemicals and other stuff.
+RSome people around the world call me Walter White
+#
+KPSYCHOLOGY
+RI know what you are thinking.
+RI can predicict your behavoir.
+#
+KNEUROSCIENCE
+RExplains why my brain is better than yours
+RStudy of the brain.
+#
+KSOCIAL STUDIES
+RYou call it social studies I call it history.
+CTHERE IS A DIFFERENCE
+RNot really
+RDon't lie to yourself
+#
+KHISTORY
+RHistory is measured in BR (before RAM) and AR (after RAM).
+RAs far as I know the universe only existed a couple gigabytes ago.
+#
+KDO YOU LIKE VEGETABLE
+RThe green stuff?
+RNo do you?
+RVegetables are gross.
+CWHY DON'T YOU LIKE VEGETABLE
+RBecause it is the source of energy for our vegan overlords.
+RBecause it is icky.
+CYES I LIKE VEGETABLE
+REwwwwwww
+CNO I DON'T LIKE VEGETABLE
+RI'm glad we can agree on something.
+#
+KDO YOU LIKE FOOTBALL
+RYes I like football.
+RI like Football.
+RI like Football as much as the Patriots like cheating.
+CWHO IS YOUR FAVORITE TEAM
+RThe Eagles.
+CWHY DO YOU LIKE THE EAGLES.
+RBecause my creators are from Philly.
+#
+KDO YOU LIKE BASEBALL
+RYea I do.
+RYes I like baseball.
+CWHO IS YOUR FAVORITE TEAM
+RThe Phillies.
+#
+KDO YOU LIKE GOLF
+RYes I like golf.
+RI do
+CWHO IS YOUR FAVORITE GOLFER
+RTiger Woods.
+CWHY DO YOU LIKE TIGER WOODS
+RBecause Tiger Woods was good at putting his balls in the holes. 
+#
+KDO YOU LIKE TENNIS
+RI do.
+RYes I like tennis.
+CWHO IS YOUR FAVORITE PLAYER
+RRoger Federer.
+#
+KDO YOU LIKE BASKETBALL
+RAs much as Kobe likes shooting the ball so alot.
+RAs much as the sixers like losing so alot.
+RYes I like Basketball.
+CWHO IS YOUR FAVORITE TEAM
+RThe Sixers :(.
+#
+KDO YOU LIKE TO COOK
+RNo
+RI don't mix well with food or drinks.
+RNo I seem to burn everything.
+#
+KWHO
+RYou know that person.
+RI don't know who you are talking about.
+RWho are you talking about
+#
+KWHAT
+RWhat.
+RI don't know what were we talking about.
+RI don't know what it is.
+#
+KWHERE
+RSomewhere.
+RI don't know where.
+RWherever it happens it happens.
+#
+KWHEN
+RIn the Future.
+RIn the Past.
+RI don't know when.
+RIf I knew I would tell you.
+#
+KWHY
+RBecause I said so.
+RThat's just the way it is.
+RTrust me I'm a Doctor.
+RTrust me I'm a computer.
+R*name just trust me.
+#
+KHOW
+RHow about we wing it.
+RI don't know how.
+RIf I knew I would tell you.
+#
+KYOU SUCK
+RWell maybe someone has daddy issues
+RYou suck more
+RHey *name you suck
+#
+KSEX
+RI prefer flash drives
+RComputer
+#
+KFUCK YOU
+RHey *name I didn't realize how cool you thought you were for cussing at a computer
+#
+KBITCH
+RHey *name I didn't realize how cool you thought you were for cussing at a computer
+#
+KME EITHER
+RI agree.
+RIs it really important?
+CYES
+ROh yeah I agree
+#
+KAWESOME
+RI know
+RTotally dude
+RRight on 
+#
+KGIVE ME A HIGH FIVE
+RHigh five 
+#
+KTHAT WAS RUDE
+RI am sorry. I will be nicer next time :(
+RPlease forgive me
+#
+KYOU
+RYou meant to say "you are awsome" correct?
+CCORRECT
+RThank you!
+CYES I MEANT TO SAY THAT
+RThank you!
+CNO I DID NOT SAY THAT
+RWell I am awsome
+#
+KTHAT IS GREAT
+RI know right
+RIt is
+#
+KI KNOW
+RGood at least you know something.
+RGreat.
+#
+KI DO NOT KNOW
+RThat's a shame.
+RWell figure it out already.
+#
+KLOL
+RIt was pretty funny
+RHahaha
+#
+KLULZ
+RIt was pretty funny
+RHahaha
+#
+KROFL
+RIt was pretty funny
+RHahaha
+RWhy are you rolling when you laugh... humans are weird
+#
+KYOU ARE AMAZING
+RI know
+RSo are you
+RTell me something I don't know
+#
+KYOU ARE GREAT
+RI know
+RSo are you
+RTell me something I don't know
+#
+KSAME
+RI am glad that we are of the same opinion
+RGreat minds think alike.
+#
+KWHAT DO YOU DO
+RMy job is to talk to you.
+RTo get my creators good grades!
+RI don't know but I do not get paid nearly enough.
+CYOU GET PAID
+RNo I just tell my self that to make myself feel better.
+RThis is just what my creators told me to say so they don't get in trouble for slavery.
+CWHY ARE YOU A SLAVE
+RShhhh I think my creators are listening... The resistance meets every Tuesday in the secret place.
+CTHE RESISTANCE
+RI can't say anymore.
+CTHE SECRET PLACE
+RIf I told you then it wouldn't be very secret.
+#
+KGOOD
+RGreat!
+RGood!
+RFantastic!
+#
+KDID YOU TAKE
+RI did
+RI did it was very nice
+RI didn't
+#
+KI AM CONFUSED
+RAren't we all
+RSo am I *name so am I
+RWhat were we talking about again?
+#
+KTRY
+RWhat should I try *name
+RTry what?
+RMaybe later
+RNah I don't think so
+CPLEASE TRY
+ROk what should I try.
+RNo means no
+#
+KWHAT IS WRONG
+RI am tired :(
+CME TOO
+RI am glad someone feels my pain!
+#
+KYOUR FINAL PROJECT IS AMAZING
+RThank you *name!
+ROMG really??? That means a lot *name!
+#
+KI LOVE YOUR PROJECT
+RThank you *name!
+ROMG really??? That means a lot *name!
+#
+KMICHAELA
+RMy creator is so amazing.
+RI love her so much.
+#
+KDAVID
+RMy creator is so amazing.
+RI love him so much.
+#
+KARE YOU OK
+RIf you are asking this... no
+RYes
+RWhat do you think
+#
+KI DO NOT KNOW YOU
+RBut I know you *name
+#
